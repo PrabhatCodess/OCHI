@@ -29,3 +29,5 @@ const locomotiveScroll = new LocomotiveScroll();
 }
 
 export default App
+
+
