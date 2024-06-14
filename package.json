@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "preinstall": "npm install --legacy-peer-deps",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "vite build",
