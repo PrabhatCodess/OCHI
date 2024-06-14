@@ -14,7 +14,7 @@ function Company_info() {
             </button>
         </div>
         <div className='w-1/2 h-[70vh] rounded-3xl bg-[#a1b562] '>
-            <img className='h-full w-auto rounded-3xl' src="Owner.jpg" alt="" />
+            <img className='h-full w-auto rounded-3xl' src="https://ochi.design/wp-content/uploads/2022/05/Homepage-Photo-1326x939.jpg" alt="" />
         </div>
         </div>
        
